@@ -8,7 +8,7 @@ namespace MovableControl
 {
     /// <summary>
     /// new file add in devBranch
-    /// Add the comment after SSH setting
+    /// Add the comment after SSH setting add more comment
     /// </summary>
     class AddFileinDevBranch
     {
